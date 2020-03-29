@@ -50,4 +50,30 @@ li:nth-child(2n)
 {
 	background: #f7f7f7;
 }
+span
+{
+	width:0px;
+	opacity: 0;
+	display:inline-block;
+	text-align: center;
+	height: 40px;
+}
+li:hover span
+{
+	width:40px;
+	transition-duration: 0.4s;
+	opacity: 1;
+	background-color: orangered;
+	border-bottom-left-radius:4px;
+	border-top-left-radius: 4px;
+}
 
+.header
+{
+	display: none;
+}
+.completed
+{
+	text-decoration: line-through;
+	color:grey;
+}
