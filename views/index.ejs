@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Todo List</title>
+	<script type="text/javascript" src="lib/jQuery.js"></script>
+	<link rel="stylesheet" type="text/css"
+		href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css"
+		href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+	<script src="/javascript/todo.js"></script>
+	<style>
+		@import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			font-family: 'Sacramento', 'cursive';
+			font-size: 4rem;
+			background: rgb(255, 193, 241);
+			background: radial-gradient(circle, rgba(255, 193, 241, 1) 0%, rgba(114, 182, 229, 1) 100%);
+			box-shadow: 3px 3px 5px black;
+			padding: 10px;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="mt-5 container">
+		<h1>Instasolv todolist</h1>
+	</div>
+	<div class="container maindiv">
+
+		<form action="/" method="POST">
+			<input type="text" name="itemm" class="form-control inputoftodo" placeholder="Enter here!!!">
+			<button type="submit" class="submitt btn btn-info enterbutton">Enter </button>
+		</form>
+
+		<ul id="todolist">
+			<% allitems.forEach(function(item){ %>
+			<li>
+				<span class=" deletebutton">
+					<form action="/<%= item._id%>?_method=DELETE" method="POST">
+						<button style="display:inline;" type="submit"
+							class="deletebutton btn btn-sm btn-danger">Delete</button>
+					</form>
+					<form action="/<%= item._id%>" method="GET">
+						<button style="display:inline;" type="submit"
+							class="editbutton btn btn-sm btn-warning">Edit</button>
+					</form>
+				</span><%= item.item %>
+			</li>
+			<% }) %>
+		</ul>
+	</div>
+
+
+
+	<script type="text/javascript" src="todo.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,117 @@
+ body {
+ 	background: rgb(114, 182, 229);
+ 	background: radial-gradient(circle, rgba(114, 182, 229, 1) 0%, rgba(255, 193, 241, 1) 100%);
+ }
+
+ img {
+ 	opacity: 0.5;
+ }
+
+ h1 {
+ 	text-align: center;
+ }
+
+ .maindiv {
+ 	text-align: center;
+ }
+
+ .deletebutton {
+ 	float: left;
+ 	padding-left: 5px;
+ }
+
+ .maindiv {
+ 	margin-top: 200px;
+ }
+
+ .container {
+ 	width: 1000px;
+ }
+
+ button.submitt {
+ 	margin-top: 40px;
+ 	margin-bottom: 40px;
+ }
+
+ button.deletebutton {
+ 	height: 40px;
+ 	width: 50px;
+ 	margin-left: 0;
+ 	margin-right: 0;
+ 	transition: 0.5s;
+ }
+
+ button.actualeditbutton {
+ 	height: 40px;
+ 	width: 50px;
+ 	margin-bottom: 5px;
+ 	margin-right: 10px;
+ 	transition: 0.5s;
+ }
+
+ button.editbutton {
+ 	height: 40px;
+ 	width: 50px;
+ 	margin-bottom: 5px;
+ 	transition: 0.5s;
+ }
+
+ input {
+ 	background: #fff;
+ 	height: 40px;
+ 	line-height: 40px;
+ 	border-radius: 4px;
+ 	margin-bottom: 8px;
+ 	padding: 0;
+ 	width: 100%;
+ 	padding: 5px;
+ 	text-align: Center;
+ }
+
+ li {
+ 	background: #fff;
+ 	height: 40px;
+ 	line-height: 40px;
+ 	border-radius: 4px;
+ 	margin-bottom: 8px;
+ 	padding: 0;
+ }
+
+ ul {
+ 	list-style: none;
+ 	padding: 0;
+ 	margin: 0;
+ }
+
+ li:nth-child(2n) {
+ 	background: #f7f7f7;
+ }
+
+ span {
+ 	width: 0px;
+ 	opacity: 0;
+ 	display: inline-block;
+ 	text-align: center;
+ 	height: 40px;
+ }
+
+ li:hover {
+ 	background-color: black;
+ 	color: white;
+ 	transition: 0.5s;
+ }
+
+ li:hover span {
+ 	transition-duration: 0.5s;
+ 	opacity: 1;
+
+ }
+
+ .header {
+ 	display: none;
+ }
+
+ .completed {
+ 	text-decoration: line-through;
+ 	color: grey;
+ }
