@@ -3,6 +3,11 @@
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
+.Have a bad habit of forgetting imporant tasks?
+Congratulations you now have a solution!!
+Bookmark this on your website and never forget another task every again.
+Just jot down any task you remember and delete it or edit it anytime.
+
 
 
 ## Getting Started
