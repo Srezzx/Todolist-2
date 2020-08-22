@@ -1,8 +1,8 @@
 # Creative, Stylish TodoList
 
-[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) 
-[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/)
-[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/Srezzx) 
+[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://linkedin.com/in/sriesh-agrawal-5b2bb0190/)
+[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://www.instagram.com/imsrezz/)
 .Have a bad habit of forgetting imporant tasks?
 Congratulations you now have a solution!!
 Bookmark this on your website and never forget another task every again.
@@ -12,9 +12,9 @@ Just jot down any task you remember and delete it or edit it anytime.
 
 ## Getting Started
 
-[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) 
-[![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/)
-[![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
+[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/Srezzx) 
+[![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://linkedin.com/in/sriesh-agrawal-5b2bb0190/)
+[![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://www.instagram.com/imsrezz/)
 
 It's quite simple, just follow the following steps.
 
@@ -60,7 +60,7 @@ It could be the case where your port number 8000 is already occupied , in that c
 
 ## Built With
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/kshitijdhyani/) [![KSHITIJ DHYANI](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/kshitijdhyani/) 
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Srezzx) [![Sriesh Agrawal](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://linkedin.com/in/sriesh-agrawal-5b2bb0190/) 
 
 > Your life will flash in front of your eyes one day, make sure it's worth watching.
 
